@@ -120,6 +120,9 @@ We will plot the ROC AUC curves of all the models to compare their performance.
 ![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/60286433-f5ca-45a1-8994-9e3db01076bb)
 
 
+we now plot the feature importance summary for the XGBOOST model that we will deploy
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/442afe8c-984b-4d66-a2a0-8f648c75f532)
 
 
 
