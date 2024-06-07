@@ -1,5 +1,8 @@
-# Churn-in-Telecom-
+SYRIATEL CUSTOMER CHURN PREDICTION
+
+
 BUSINESS UNDERSTANDING
+
 
 Project Overview
 
@@ -86,16 +89,21 @@ Gradient Boosting (AUC = 0.83): The winner! Highest AUC, indicating excellent pe
 
 
 
-Both gradient boosting model and the randomforest performed well
+Both gradient boosting model and the randomforest performed well.
 
 let's compare their accuracy scores as well because they are also equally important in evaluating the best model for deployment
 
  Model  Accuracy  Precision  Recall  F1 Score  Sample Size
 0  Logistic Regression      0.84       0.64    0.56      0.58         1000
+
 1                  KNN      0.84       0.65    0.60      0.62         1000
+
 2        Decision Tree      0.88       0.77    0.67      0.71         1000
+
 3        Random Forest      0.89       0.85    0.66      0.71         1000
+
 4              XGBoost      0.89       0.84    0.68      0.72         1000
+
 
 
 CONCLUSIONS:
