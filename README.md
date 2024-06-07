@@ -77,6 +77,10 @@ We'll plot the ROC AUC curves for the best performing models ie random forest an
 
 ![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/8ead77b1-ff1a-45dd-9743-f4e4446bd742)
 
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/2ed7edb2-ecf1-4f20-a1d3-5538773f089c)
+
+
    
 
 
