@@ -73,6 +73,12 @@ We proceed with the training and evaluation of the following models:
 
 5. XG BOOST
 
+We'll plot the ROC AUC curves for the best performing models ie random forest and XGBOOST.
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/8ead77b1-ff1a-45dd-9743-f4e4446bd742)
+
+   
+
 
 MODEL EVALUATION
 
