@@ -115,6 +115,13 @@ let's compare their accuracy scores as well because they are also equally import
 
 4 XGBOOST                   0.89        0.84        0.68        0.72          1000
 
+We will plot the ROC AUC curves of all the models to compare their performance. 
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/60286433-f5ca-45a1-8994-9e3db01076bb)
+
+
+
+
 
 
 CONCLUSIONS:
