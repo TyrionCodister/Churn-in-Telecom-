@@ -77,6 +77,10 @@ We'll plot the ROC AUC curves for the best performing models ie random forest an
 
 ![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/8ead77b1-ff1a-45dd-9743-f4e4446bd742)
 
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/2ed7edb2-ecf1-4f20-a1d3-5538773f089c)
+
+
    
 
 
@@ -110,6 +114,16 @@ let's compare their accuracy scores as well because they are also equally import
 3 Random Forest             0.89        0.85        0.66        0.71          1000
 
 4 XGBOOST                   0.89        0.84        0.68        0.72          1000
+
+We will plot the ROC AUC curves of all the models to compare their performance. 
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/60286433-f5ca-45a1-8994-9e3db01076bb)
+
+
+we now plot the feature importance summary for the XGBOOST model that we will deploy
+
+![image](https://github.com/TyrionCodister/Churn-in-Telecom-/assets/162158505/442afe8c-984b-4d66-a2a0-8f648c75f532)
+
 
 
 
